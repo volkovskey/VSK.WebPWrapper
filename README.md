@@ -1,19 +1,19 @@
 # WebPWrapper
 
-[![Build Status](https://jenkins.gofa.cloud/buildStatus/icon?job=WebPWrapper)](#) [![NuGet Version](https://img.shields.io/nuget/v/WebPWrapper.svg)](#) [![NuGet Download](https://img.shields.io/nuget/dt/WebPWrapper.svg)](#) [![Github license](https://img.shields.io/github/license/XuPeiYao/WebPWrapper.svg)](#)
+[![NuGet Download](https://img.shields.io/nuget/dt/VSK.WebPWrapper.svg)](#) [![Github license](https://img.shields.io/github/license/volkovskey/VSK.WebPWrapper.svg)](#)
 
-這是一個可以在`.NET Standard 2.0`環境運行的WebP包裝套件。提供包裝好的CLI參數建構器幫助調用WebP CLI。
+WebP wrapper for .Net Standart 2.1
 
-有關WebP詳細資訊請參考官方網站: [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)
+For more information about WebP, visit the official website: [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)
 
-## 快速上手
+## Quick start
 
-### 安裝套件
+### Installation kit
 ```shell
 dotnet add package WebPWrapper
 ```
 
-### 編碼
+### Code example
 ```csharp 
 using WebPWrapper;
 using WebPWrapper.Encoder;
