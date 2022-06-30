@@ -1,4 +1,4 @@
-# WebPWrapper
+# VSK.WebPWrapper
 
 [![NuGet Download](https://img.shields.io/nuget/dt/VSK.WebPWrapper.svg)](#) [![Github license](https://img.shields.io/github/license/volkovskey/VSK.WebPWrapper.svg)](#)
 
@@ -10,13 +10,13 @@ For more information about WebP, visit the official website: [https://developers
 
 ### Installation kit
 ```shell
-dotnet add package WebPWrapper
+dotnet add package VSK.WebPWrapper
 ```
 
 ### Code example
 ```csharp 
-using WebPWrapper;
-using WebPWrapper.Encoder;
+using VSK.WebPWrapper;
+using VSK.WebPWrapper.Encoder;
 
 WebPExecuteDownloader.Download();
 
