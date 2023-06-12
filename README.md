@@ -1,5 +1,7 @@
 # VSK.WebPWrapper
 
+I stopped working on this project, I recommend using this one - [WebPWrapper by vladikko](https://github.com/vladikko/WebPWrapper)
+
 [![NuGet Download](https://img.shields.io/nuget/dt/VSK.WebPWrapper.svg)](#) [![Github license](https://img.shields.io/github/license/volkovskey/VSK.WebPWrapper.svg)](#)
 
 WebP wrapper for .Net Standart 2.1
